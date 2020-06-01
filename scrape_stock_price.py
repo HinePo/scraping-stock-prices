@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat May 30 02:36:34 2020
-
-@author: HinePo
-"""
-
 import bs4
 import requests
 import time
